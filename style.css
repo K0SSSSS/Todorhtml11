@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url(font/OpenSans-VariableFont_wdth\,wght.ttf) format('truetype');
+}
+body{
+    text-align: center;
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    color: rgb(66, 180, 211);
+}
+h2{
+    font-family: 'Jersey 15', sans-serif; 
+    font-style: bold;
+}
+#first_paragraph{
+    font-family: 'Jersey 15', sans-serif;
+}
+#second_paragraph{
+    font-family: 'Jersey 15', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+}
